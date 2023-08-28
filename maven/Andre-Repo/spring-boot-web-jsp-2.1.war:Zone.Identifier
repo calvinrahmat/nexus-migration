@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://nexusdemo.izenoondemand.com:8081/
+HostUrl=http://nexusdemo.izenoondemand.com:8081/repository/maven-releases/org/springframework/boot/spring-boot-web-jsp/2.1/spring-boot-web-jsp-2.1.war

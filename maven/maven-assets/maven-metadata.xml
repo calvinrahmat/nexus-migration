@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>in.mallika</groupId>
+  <artifactId>01-maven-web-app</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20230720.164412</timestamp>
+      <buildNumber>13</buildNumber>
+    </snapshot>
+    <lastUpdated>20230720164412</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>1.0-20230720.164412-13</value>
+        <updated>20230720164412</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

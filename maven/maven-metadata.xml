@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.jboss.eap.quickstarts</groupId>
+  <artifactId>helloworld-rs</artifactId>
+  <versioning>
+    <latest>7.1.0.GA</latest>
+    <release>7.1.0.GA</release>
+    <versions>
+      <version>7.1.0.GA</version>
+    </versions>
+    <lastUpdated>20211129024733</lastUpdated>
+  </versioning>
+</metadata>
